@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fongto/Documents/Lexicon/C#/Projects/ACM/ACM.BL/ACM.BL.csproj": {}
+    "/Users/fongto/Documents/Lexicon/C#/Projects/OOP_Plurasight/ACM/ACM.BL/ACM.BL.csproj": {}
   },
   "projects": {
-    "/Users/fongto/Documents/Lexicon/C#/Projects/ACM/ACM.BL/ACM.BL.csproj": {
+    "/Users/fongto/Documents/Lexicon/C#/Projects/OOP_Plurasight/ACM/ACM.BL/ACM.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fongto/Documents/Lexicon/C#/Projects/ACM/ACM.BL/ACM.BL.csproj",
+        "projectUniqueName": "/Users/fongto/Documents/Lexicon/C#/Projects/OOP_Plurasight/ACM/ACM.BL/ACM.BL.csproj",
         "projectName": "ACM.BL",
-        "projectPath": "/Users/fongto/Documents/Lexicon/C#/Projects/ACM/ACM.BL/ACM.BL.csproj",
+        "projectPath": "/Users/fongto/Documents/Lexicon/C#/Projects/OOP_Plurasight/ACM/ACM.BL/ACM.BL.csproj",
         "packagesPath": "/Users/fongto/.nuget/packages/",
-        "outputPath": "/Users/fongto/Documents/Lexicon/C#/Projects/ACM/ACM.BL/obj/",
+        "outputPath": "/Users/fongto/Documents/Lexicon/C#/Projects/OOP_Plurasight/ACM/ACM.BL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fongto/.config/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

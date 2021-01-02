@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LDqSPqwnI/s6DPIVYP7mGdXc3wHd7RJGTeoiKmn7q+pxdiFG2e0eMCVzbzrO/kk2D2mFVBm+E/7G500s1lADYQ==",
+  "dgSpecHash": "gwTzYNdBpT2F8qMlfLpo3DG3rFGFH5oYnVGLaDkMWL00FuUD7bmTVoy0ylZF1y/PgQOzFp7LtROflBgO2ulAaw==",
   "success": true,
-  "projectFilePath": "/Users/fongto/Documents/Lexicon/C#/Projects/ACM/ACM.BL/ACM.BL.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/fongto/Documents/Lexicon/C#/Projects/OOP_Plurasight/ACM/ACM.BL/ACM.BL.csproj",
+  "expectedPackageFiles": [
+    "/Users/fongto/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
